@@ -3,7 +3,6 @@ Automated Provisioning of a Multi-Tier Java Web Application Using Shell Scriptin
 📌 DESCRIPTION
 
 A comprehensive, hands-on DevOps project designed to simulate a real-world enterprise environment.
-
 This project demonstrates the end-to-end deployment of a scalable, multi-tier Java web application in a local infrastructure environment. It focuses on manual infrastructure provisioning, service integration, and configuration management using shell scripting.
 
 The project establishes the foundational architecture and practical experience required before transitioning to automated CI/CD pipelines and cloud-native deployments on AWS.
@@ -33,7 +32,9 @@ Proficiency in Linux system administration.
 Experience with Bash scripting.
 Understanding of foundational networking concepts.
 Familiarity with application servers and database management.
+
 ⚙️ TOOLS & TECHNOLOGIES
+
 Tool / Technology	Purpose
 Linux (CentOS / Ubuntu)	Operating System
 Vagrant	Virtual Machine Provisioning
@@ -46,4 +47,4 @@ RabbitMQ	Message Broker
 Maven	Build Automation
 Git	Version Control
 
-Project Focus: Manual Infrastructure Provisioning | Multi-Tier Architecture | Shell Scripting | Java Application Deployment | DevOps
+Project Focus: Automate Infrastructure Provisioning | Multi-Tier Architecture | Shell Scripting | Java Application Deployment | DevOps
