@@ -1,7 +1,7 @@
 # 🚀 Automated Provisioning of a Multi-Tier Java Web Application Using Shell Scripting
 
 <p align="center">
-  <img src="assets/devops-banner.png" alt="DevOps Project Banner" width="100%">
+  <img src="devops-banner.png" alt="DevOps Project Banner" width="100%">
 </p>
 
 <p align="center">
